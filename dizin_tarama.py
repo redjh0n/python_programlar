@@ -1,6 +1,6 @@
 import requests
 
-print("*"*5,"DİZİN TARAMA PROGRAMI","*"*5,"\nSite Sonuna '/'' koymayı unutmayınız!","Örnek: https://site.com/")
+print("*"*5,"DİZİN TARAMA PROGRAMI","*"*5,"\nSite Sonuna '/'' koymayı unutmayınız!","Örnek: https://site.com/","Wordlist ismi dosya uzantısı ile birlikte yazılmalıdır.")
 
 site = input("Site Giriniz: ")
 wordlist = input("Wordlist Dosyasını Giriniz: ")
