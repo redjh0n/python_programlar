@@ -1,2 +1,2 @@
 # python_programlar
-Python dilinde yazdığım araçlar
+Python diline başlarken yazdığım bazı basit araçlar.(Buldukça atıcam :D)
